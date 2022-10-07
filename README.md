@@ -1,0 +1,3 @@
+- 🦢 Hi, I’m Noor!
+- 🤍 I’m a web designer and a front-end developer with a passion for building beautiful websites 
+- 💌 noorel.ymen@gmail.com
